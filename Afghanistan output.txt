@@ -1,204 +1,34 @@
 
-===============================================
-                        Dependent variable:    
-                    ---------------------------
-                           direct_attack       
------------------------------------------------
-CERP_all                       0.170           
-                              (0.139)          
-                                               
-Constant                     0.075***          
-                              (0.012)          
-                                               
------------------------------------------------
-Observations                    396            
-R2                             0.004           
-Adjusted R2                    0.001           
-Residual Std. Error      0.221 (df = 394)      
-F Statistic             1.487 (df = 1; 394)    
-===============================================
-Note:               *p<0.1; **p<0.05; ***p<0.01
 
-===============================================
-                        Dependent variable:    
-                    ---------------------------
-                          indirect_attack      
------------------------------------------------
-CERP_all                      0.204**          
-                              (0.103)          
-                                               
-Constant                     0.063***          
-                              (0.008)          
-                                               
------------------------------------------------
-Observations                    396            
-R2                             0.010           
-Adjusted R2                    0.007           
-Residual Std. Error      0.163 (df = 394)      
-F Statistic            3.937** (df = 1; 394)   
-===============================================
-Note:               *p<0.1; **p<0.05; ***p<0.01
-
-===============================================
-                        Dependent variable:    
-                    ---------------------------
-                           direct_attack       
------------------------------------------------
-CERP_all                      -0.097           
-                              (0.134)          
-                                               
-govt_control                 0.252***          
-                              (0.033)          
-                                               
-Constant                     0.050***          
-                              (0.011)          
-                                               
------------------------------------------------
-Observations                    396            
-R2                             0.135           
-Adjusted R2                    0.131           
-Residual Std. Error      0.206 (df = 393)      
-F Statistic           30.753*** (df = 2; 393)  
-===============================================
-Note:               *p<0.1; **p<0.05; ***p<0.01
-
-===============================================
-                        Dependent variable:    
-                    ---------------------------
-                          indirect_attack      
------------------------------------------------
-CERP_all                      -0.084           
-                              (0.090)          
-                                               
-govt_control                 0.271***          
-                              (0.022)          
-                                               
-Constant                     0.036***          
-                              (0.008)          
-                                               
------------------------------------------------
-Observations                    396            
-R2                             0.289           
-Adjusted R2                    0.285           
-Residual Std. Error      0.138 (df = 393)      
-F Statistic           79.840*** (df = 2; 393)  
-===============================================
-Note:               *p<0.1; **p<0.05; ***p<0.01
-
-===============================================
-                        Dependent variable:    
-                    ---------------------------
-                           direct_attack       
------------------------------------------------
-CERP_small                   4.668***          
-                              (1.103)          
-                                               
-govt_control                 0.200***          
-                              (0.033)          
-                                               
-Constant                     0.032***          
-                              (0.012)          
-                                               
------------------------------------------------
-Observations                    396            
-R2                             0.172           
-Adjusted R2                    0.168           
-Residual Std. Error      0.202 (df = 393)      
-F Statistic           40.792*** (df = 2; 393)  
-===============================================
-Note:               *p<0.1; **p<0.05; ***p<0.01
-
-===============================================
-                        Dependent variable:    
-                    ---------------------------
-                          indirect_attack      
------------------------------------------------
-CERP_small                   3.442***          
-                              (0.737)          
-                                               
-govt_control                 0.232***          
-                              (0.022)          
-                                               
-Constant                     0.022***          
-                              (0.008)          
-                                               
------------------------------------------------
-Observations                    396            
-R2                             0.325           
-Adjusted R2                    0.321           
-Residual Std. Error      0.135 (df = 393)      
-F Statistic           94.541*** (df = 2; 393)  
-===============================================
-Note:               *p<0.1; **p<0.05; ***p<0.01
-
-===============================================
-                        Dependent variable:    
-                    ---------------------------
-                           direct_attack       
------------------------------------------------
-CERP_large                    -0.102           
-                              (0.221)          
-                                               
-govt_control                 0.249***          
-                              (0.032)          
-                                               
-Constant                     0.050***          
-                              (0.011)          
-                                               
------------------------------------------------
-Observations                    396            
-R2                             0.135           
-Adjusted R2                    0.130           
-Residual Std. Error      0.206 (df = 393)      
-F Statistic           30.572*** (df = 2; 393)  
-===============================================
-Note:               *p<0.1; **p<0.05; ***p<0.01
-
-===============================================
-                        Dependent variable:    
-                    ---------------------------
-                          indirect_attack      
------------------------------------------------
-CERP_large                     0.082           
-                              (0.149)          
-                                               
-govt_control                 0.263***          
-                              (0.022)          
-                                               
-Constant                     0.034***          
-                              (0.008)          
-                                               
------------------------------------------------
-Observations                    396            
-R2                             0.288           
-Adjusted R2                    0.284           
-Residual Std. Error      0.139 (df = 393)      
-F Statistic           79.446*** (df = 2; 393)  
-===============================================
-Note:               *p<0.1; **p<0.05; ***p<0.01
-
-
-
-
-
-
-
-Solutions
-
-The relationship between military aid and direct attacks is positive and small, but not statistically significant
-
-The relationship between military aid and the incidence of indirect attacks is positive and small (though larger than direct attacks), and only somewhat statistically significant (10%)
-
-The relationship between military aid with the presence of government control in the districts, the presence of government control is significantly correlated with a small increase in the incidence of direct violence…In this instance, any amount of aid is associated with a small decrease of violence. But it’s not statistically significant.
-
-Same analysis for indirect violence, although its critical to note that the impact of government control is slightly larger. And the amount of aid impact is slightly smaller.
-
-Small amount of aid, controlling for government control.
-A significant positive relationship between a small amount of aid and an increase in direct attacks. In this instance, government control also has a small, positive, and significant association with an increase in direct attacks.
-
-A significant positive relationship between a small amount of aid and an increase in indirect attacks (although smaller than direct). In this instance, government control also has a small, positive and significant association with an increase in indirect attacks. 
-
-Large amount of aid controlling for government control
-A small positive relationship between a large amount of aid and government control. Here, there is a suggestion that a large amount of aid reduces the incidence of direct violence, but it is not statistically significant.
-
-A small positive relationship between a large amount of aid and government control on indirect violence, a relationship that suggests that large aid given to a district results in a small increase in the incidence of indirect violence, but it is not statistically significant.
+==========================================================================================
+                                                   Dependent variable:                    
+                               -----------------------------------------------------------
+                               direct_attack indirect_attack direct_attack indirect_attack
+                                    (1)            (2)            (3)            (4)      
+------------------------------------------------------------------------------------------
+CERP_small                       4.041***       2.583***                                  
+                                  (1.306)        (0.870)                                  
+                                                                                          
+CERP_large                                                       0.314         0.425**    
+                                                                (0.301)        (0.202)    
+                                                                                          
+govt_control                     0.177***       0.200***       0.276***       0.285***    
+                                  (0.042)        (0.028)        (0.035)        (0.023)    
+                                                                                          
+CERP_small:govt_control            2.188         2.996*                                   
+                                  (2.440)        (1.624)                                  
+                                                                                          
+CERP_large:govt_control                                        -0.897**       -0.738**    
+                                                                (0.442)        (0.296)    
+                                                                                          
+Constant                         0.034***       0.025***       0.045***       0.030***    
+                                  (0.012)        (0.008)        (0.012)        (0.008)    
+                                                                                          
+------------------------------------------------------------------------------------------
+Observations                        396            396            396            396      
+R2                                 0.174          0.331          0.144          0.299     
+Adjusted R2                        0.167          0.326          0.137          0.294     
+Residual Std. Error (df = 392)     0.202          0.134          0.206          0.138     
+F Statistic (df = 3; 392)        27.449***      64.547***      21.913***      55.743***   
+==========================================================================================
+Note:                                                          *p<0.1; **p<0.05; ***p<0.01
